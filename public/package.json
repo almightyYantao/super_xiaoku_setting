@@ -1,13 +1,12 @@
 {
-    "name": "super_xiaoku_system_setting",
-    "pluginName": "设置",
-    "version": "0.0.4",
-    "description": "SuperXiaoKu 的设置插件",
-    "main": "index.html",
-    "preload": "preload.js",
-    "logo": "https://qhstaticssl.kujiale.com/image/png/1705487076239/setting.png",
-    "pluginType": "xiaoku",
-    "author": "yantao",
-    "license": "ISC"
-  }
-  
+  "name": "super_xiaoku_system_setting",
+  "pluginName": "设置",
+  "version": "0.0.4",
+  "description": "SuperXiaoKu 的设置插件",
+  "main": "index.html",
+  "preload": "preload.js",
+  "logo": "https://qhstaticssl.kujiale.com/image/png/1705487076239/setting.png",
+  "pluginType": "xiaoku",
+  "author": "yantao",
+  "license": "ISC"
+}
